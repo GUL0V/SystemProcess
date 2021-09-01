@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468108192923",
+    "firebase_url": "https://systemprocess-41ced-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "systemprocess-41ced",
+    "storage_bucket": "systemprocess-41ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468108192923:android:3d832713f296b72ed92a3e",
+        "android_client_info": {
+          "package_name": "com.google.systemprocess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468108192923-41uq6et3f0vgh3gd8j89f74lh98g4kie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaA7NOECAa9RCLZ8dD49PwrO1O2f3OmJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468108192923-41uq6et3f0vgh3gd8j89f74lh98g4kie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
